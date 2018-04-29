@@ -1,8 +1,7 @@
 # Loading Bar
 Website berisi loading bar.
 
-Untuk tugas ProWeb.Markdown
-:  Text-to-HTML conversion tool
+Untuk tugas ProWeb.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTI1MjgyODQsOTA5MjA2MzJdfQ==
+eyJoaXN0b3J5IjpbOTA5MjA2MzIsOTA5MjA2MzJdfQ==
 -->
